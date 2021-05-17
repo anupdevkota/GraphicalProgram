@@ -1,0 +1,5 @@
+C:\Users\Wild Soulz\source\repos\GraphicalProgram\UnitTestProject2\obj\Debug\netcoreapp3.1\UnitTestProject2.csprojAssemblyReference.cache
+C:\Users\Wild Soulz\source\repos\GraphicalProgram\UnitTestProject2\obj\Debug\netcoreapp3.1\UnitTestProject2.AssemblyInfoInputs.cache
+C:\Users\Wild Soulz\source\repos\GraphicalProgram\UnitTestProject2\obj\Debug\netcoreapp3.1\UnitTestProject2.AssemblyInfo.cs
+C:\Users\Wild Soulz\source\repos\GraphicalProgram\UnitTestProject2\obj\Debug\netcoreapp3.1\UnitTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\Wild Soulz\source\repos\GraphicalProgram\UnitTestProject2\obj\Debug\netcoreapp3.1\UnitTestProject2.csproj.ResolveComReference.cache

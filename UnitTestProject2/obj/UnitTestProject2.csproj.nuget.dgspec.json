@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj",
+        "projectName": "GraphicalProgram",
+        "projectPath": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj",
+        "projectName": "UnitTestProject2",
+        "projectPath": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj",
+        "packagesPath": "C:\\Users\\Wild Soulz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wild Soulz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj": {
+                "projectPath": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
