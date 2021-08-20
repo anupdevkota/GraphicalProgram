@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aP0XgXZiH/C5F4bLZy+lRwOq/r3JBT8hmwE1oyappIAwQ4YRNdDICQekrf0/wyahaWzFHWVLiiFw04fW13UH4Q==",
+  "dgSpecHash": "5pgsWPhvazxCMvAODTNK2GYQhBgKaC4JA5EYjbB11+X1/QeViA5tIEd9GL1is0GsvQQ+7pMqMP9770SD8Uj4NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj",
+  "projectFilePath": "E:\\5 sem\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wild Soulz\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Wild Soulz\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

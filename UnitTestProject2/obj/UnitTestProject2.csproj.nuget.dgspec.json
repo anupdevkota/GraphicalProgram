@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj": {}
+    "E:\\5 sem\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj": {
+    "E:\\5 sem\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj",
+        "projectUniqueName": "E:\\5 sem\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj",
         "projectName": "GraphicalProgram",
-        "projectPath": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj"
+        "projectPath": "E:\\5 sem\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj": {
+    "E:\\5 sem\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj",
+        "projectUniqueName": "E:\\5 sem\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj",
         "projectName": "UnitTestProject2",
-        "projectPath": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj",
+        "projectPath": "E:\\5 sem\\GraphicalProgram\\UnitTestProject2\\UnitTestProject2.csproj",
         "packagesPath": "C:\\Users\\Wild Soulz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\UnitTestProject2\\obj\\",
+        "outputPath": "E:\\5 sem\\GraphicalProgram\\UnitTestProject2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wild Soulz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,8 +38,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj": {
-                "projectPath": "C:\\Users\\Wild Soulz\\source\\repos\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj"
+              "E:\\5 sem\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj": {
+                "projectPath": "E:\\5 sem\\GraphicalProgram\\GraphicalProgram\\GraphicalProgram.csproj"
               }
             }
           }
